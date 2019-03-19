@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/eureka/Eureka.iml" filepath="$PROJECT_DIR$/eureka/Eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/boeing-w1-test.iml" filepath="$PROJECT_DIR$/boeing-w1-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/config-server/config-server.iml" filepath="$PROJECT_DIR$/config-server/config-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/musicx/musicx.iml" filepath="$PROJECT_DIR$/musicx/musicx.iml" />
+      <module fileurl="file://$PROJECT_DIR$/userservice/userservice.iml" filepath="$PROJECT_DIR$/userservice/userservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zuulgateway/zuulgateway.iml" filepath="$PROJECT_DIR$/zuulgateway/zuulgateway.iml" />
+    </modules>
+  </component>
+</project>
